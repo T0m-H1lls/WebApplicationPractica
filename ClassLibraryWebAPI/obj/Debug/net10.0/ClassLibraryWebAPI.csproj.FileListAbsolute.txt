@@ -1,0 +1,11 @@
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\bin\Debug\net10.0\ClassLibraryWebAPI.deps.json
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\bin\Debug\net10.0\ClassLibraryWebAPI.dll
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\bin\Debug\net10.0\ClassLibraryWebAPI.pdb
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\obj\Debug\net10.0\ClassLibraryWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\obj\Debug\net10.0\ClassLibraryWebAPI.AssemblyInfoInputs.cache
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\obj\Debug\net10.0\ClassLibraryWebAPI.AssemblyInfo.cs
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\obj\Debug\net10.0\ClassLibraryWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\obj\Debug\net10.0\ClassLibraryWebAPI.dll
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\obj\Debug\net10.0\refint\ClassLibraryWebAPI.dll
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\obj\Debug\net10.0\ClassLibraryWebAPI.pdb
+C:\Users\student\RiderProjects\WebApplication1\ClassLibraryWebAPI\obj\Debug\net10.0\ref\ClassLibraryWebAPI.dll
